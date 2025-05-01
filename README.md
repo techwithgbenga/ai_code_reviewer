@@ -1,3 +1,6 @@
+# AI-Powered Code Review Bot
+
+## Overview
 AI-driven code review tools have surged in popularity, with services like CodeRabbit offering open-source tiers for free GitHub/GitLab integration and Sourcery providing instant feedback across 30+ languages. Community-built apps (e.g., GitPack-AI) showcase Django-based GitHub Apps that post line-by-line reviews, while emerging open-source projects like Qodo’s PR-Agent demonstrate AI feedback directly on PRs. Cutting-edge research (e.g., Bugdar) illustrates the power of Retrieval-Augmented Generation for context-aware feedback in under a minute per request. Our project brings these concepts together in a self-hosted, extensible Python tool.
 
 ## Features & Motivation
