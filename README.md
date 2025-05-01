@@ -39,6 +39,10 @@ flowchart LR
 
 ## Usage & Deployment
 ```bash
+# Clone project
+git clone https://github.com/techwithgbenga/ai_code_reviewer.git
+cd ai_code_reviewer
+
 # Install dependencies
 pip install fastapi flask PyGithub openai sqlalchemy
 
